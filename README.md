@@ -1,4 +1,4 @@
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-10 at 8 50 11 PM (1)" src="https://github.com/user-attachments/assets/1448c5aa-119b-4259-a078-fca8989808bd" /><img width="720" height="1600" alt="WhatsApp Image 2026-11-10 at 8 50 11 PM" src="https://github.com/user-attachments/assets/4723c4d4-1828-45a1-a215-da3da5e662a7" />
+
 # Ex.No:3 Design an android application Send SMS using Intent.
 
 
@@ -827,37 +827,3 @@ public class MainActivity extends AppCompatActivity {
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
 
-
-### Redirected to Message App (in Mobile)
-
-<img width="1920" height="1021" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/057b9343-75a0-49fc-9c44-2bb34d33a9df" />
-
-### Message Sent (in Mobile )
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/4b9641a2-06cb-4958-bdd0-7284fa5f48a2" />
-
-
-## RESULT
-Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
-
-### Redirected to Message App (in Mobile)
-
-<img width="1920" height="1021" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/057b9343-75a0-49fc-9c44-2bb34d33a9df" />
-
-### Message Sent (in Mobile )
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/4b9641a2-06cb-4958-bdd0-7284fa5f48a2" />
-
-
-## RESULT
-Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
-
-
-### Redirected to Message App (in Mobile)
-
-<img width="1920" height="1021" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/057b9343-75a0-49fc-9c44-2bb34d33a9df" />
-
-### Message Sent (in Mobile )
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/4b9641a2-06cb-4958-bdd0-7284fa5f48a2" />
-
-
-## RESULT
-Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
