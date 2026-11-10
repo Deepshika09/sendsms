@@ -813,7 +813,8 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ### Providing Details (in Mobile )
 
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-10 at 8 50 12 PM" src="https://github.com/user-attachments/assets/373f883e-1118-4353-b462-dbdc70dcebfa" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-10 at 8 50 11 PM (1)" src="https://github.com/user-attachments/assets/248ec357-ed9d-4ba4-a6b5-72485925c02d" />
+
 
 ### Redirected to Message App (in Mobile)
 
@@ -821,7 +822,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### Message Sent (in Mobile )
 
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-10 at 8 50 11 PM (1)" src="https://github.com/user-attachments/assets/2d6e8a2b-da31-4f2e-b104-ac7a60be4999" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-10 at 8 50 12 PM" src="https://github.com/user-attachments/assets/4f638031-aef9-4fea-b7fd-2d1d0764dd7e" />
 
 
 ## RESULT
